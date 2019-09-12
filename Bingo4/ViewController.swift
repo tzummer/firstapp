@@ -19,17 +19,18 @@ extension UIImage {
         guard let cgImage = image?.cgImage else { return nil }
         self.init(cgImage: cgImage)
     }
-
+}
 
 
 class ViewController: UIViewController {
     
-    
+
   
     @IBOutlet weak var button: UIButton!
     
     
     override func viewDidLoad() {
+        button.backgroundColor = .clear
         button.setBackgroundImage(UIImage(color: .black), for: .normal)
         button.setBackgroundImage(UIImage(color: .red), for: .highlighted)
         super.viewDidLoad()
@@ -40,4 +41,4 @@ class ViewController: UIViewController {
     
   
     }
-}
+
