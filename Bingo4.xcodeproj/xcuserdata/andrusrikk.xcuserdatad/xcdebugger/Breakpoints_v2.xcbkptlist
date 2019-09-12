@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bingo4/AppDelegate.swift"
+            timestampString = "589924429.5477411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bingo4.AppDelegate.__allocating_init() -&gt; Bingo4.AppDelegate"
+                  moduleName = "Bingo4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrusrikk/Library/Autosave%20Information/Bingo4/Bingo4/AppDelegate.swift"
+                  timestampString = "589924414.348103"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bingo4.AppDelegate.init() -&gt; Bingo4.AppDelegate"
+                  moduleName = "Bingo4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrusrikk/Library/Autosave%20Information/Bingo4/Bingo4/AppDelegate.swift"
+                  timestampString = "589924414.350374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bingo4.AppDelegate.__deallocating_deinit"
+                  moduleName = "Bingo4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrusrikk/Library/Autosave%20Information/Bingo4/Bingo4/AppDelegate.swift"
+                  timestampString = "589924414.352281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Bingo4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrusrikk/Library/Autosave%20Information/Bingo4/Bingo4/AppDelegate.swift"
+                  timestampString = "589924414.355015"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
